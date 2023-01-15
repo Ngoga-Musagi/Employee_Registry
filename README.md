@@ -1,6 +1,6 @@
 # Employee_Registry
 Employee registry management using Django
-![Dashboard](screenshot.png)
+![Dashboard](screenshot.PNG)
 
 - you can register employee
 - remove employee
